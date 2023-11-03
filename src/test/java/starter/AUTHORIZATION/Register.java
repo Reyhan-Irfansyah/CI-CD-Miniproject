@@ -19,7 +19,7 @@ public class Register {
     @Step("I register with valid details")
     public void RegisterWithValidDetails(){
         JSONObject requestBody = new JSONObject();
-        requestBody.put("email", "ReyhAN000000001@gmail.com");
+        requestBody.put("email", "ReyHAN000000001@gmail.com");
         requestBody.put("password", "reyhan123");
         requestBody.put("fullname", "Reyhan Irfansyah");
 
@@ -235,7 +235,7 @@ public class Register {
     @Step("I Registration with Special Characters in a password")
     public void RegistrationWithSpecialCharactersPassword(){
         JSONObject requestBody = new JSONObject();
-        requestBody.put("email", "rEYhAN0101@gmail.com");
+        requestBody.put("email", "rEYHAN0101@gmail.com");
         requestBody.put("password", "~!@#$%^&*");
         requestBody.put("fullname", "Reyhan Irfansyah");
 
