@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Testing RESTful API Get order by ID (ALTA SHOP)" skipped="0" tests="3" time="6.5" timestamp="2023-11-03 03:53:14"><testcase name="Verify Successfully Get orders by ID"/><testcase name="Verify Get orders by ID with Invalid Token"/><testcase name="Verify Get orders by ID without Token"/></testsuite>

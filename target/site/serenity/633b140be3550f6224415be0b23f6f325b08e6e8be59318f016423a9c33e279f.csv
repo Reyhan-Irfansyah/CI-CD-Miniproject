@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing RESTful API Login (ALTA SHOP)","Verify User Login with Fill in email with valid password, and Fill in password with valid email","SUCCESS","2023-11-03T15:53:22.162+07:00[Asia/Bangkok]","0.0","0.41"

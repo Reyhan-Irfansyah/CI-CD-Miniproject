@@ -1,0 +1,8 @@
+starter\Orders\CreateNewOrder.class
+starter\Orders\GetOrderByID.class
+starter\AUTHORIZATION\Login.class
+starter\Orders\GetAllOrders.class
+starter\stepdefinitions\UserSteps.class
+starter\stepdefinitions\CucumberTestSuite.class
+starter\AUTHORIZATION\GetUser.class
+starter\AUTHORIZATION\Register.class

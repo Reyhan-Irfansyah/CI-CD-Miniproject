@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing RESTful API Get order by ID (ALTA SHOP)","Verify Get orders by ID without Token","SUCCESS","2023-11-03T15:53:20.162+07:00[Asia/Bangkok]","0.0","0.45"

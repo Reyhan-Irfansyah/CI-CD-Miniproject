@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing RESTful API Login (ALTA SHOP)","Verify Successful User Login","SUCCESS","2023-11-03T15:53:13.943+07:00[Asia/Bangkok]","0.0","5.86"
+"Testing RESTful API Login (ALTA SHOP)","Verify User Login with Unregistered Email","SUCCESS","2023-11-03T15:53:19.897+07:00[Asia/Bangkok]","0.0","0.61"
+"Testing RESTful API Login (ALTA SHOP)","Verify User Login with Incorrect Password","SUCCESS","2023-11-03T15:53:20.537+07:00[Asia/Bangkok]","0.0","0.24"
+"Testing RESTful API Login (ALTA SHOP)","Verify User Login with Empty Email","SUCCESS","2023-11-03T15:53:20.772+07:00[Asia/Bangkok]","0.0","0.87"
+"Testing RESTful API Login (ALTA SHOP)","Verify User Login with Empty Password","SUCCESS","2023-11-03T15:53:21.662+07:00[Asia/Bangkok]","0.0","0.22"
+"Testing RESTful API Login (ALTA SHOP)","Verify User Login with Special Characters in Password","SUCCESS","2023-11-03T15:53:21.897+07:00[Asia/Bangkok]","0.0","0.27"
+"Testing RESTful API Login (ALTA SHOP)","Verify User Login with Fill in email with valid password, and Fill in password with valid email","SUCCESS","2023-11-03T15:53:22.162+07:00[Asia/Bangkok]","0.0","0.41"
